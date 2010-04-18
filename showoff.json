@@ -1,1 +1,4 @@
-[ {"section":"#{dir}"} ]
+[
+  {"section":"one"},
+  {"section":"two"}
+]
