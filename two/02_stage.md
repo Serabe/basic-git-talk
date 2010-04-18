@@ -30,3 +30,6 @@
 
 # What's next? #
 * Committing
+* Log
+* Diff
+* Branching

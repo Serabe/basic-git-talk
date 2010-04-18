@@ -9,6 +9,12 @@
     $ git config --global user.name "Serabe"
     $ git config --global user.email "serabe@gmail.com"
 
+!SLIDE bullets incremental
+
+* Global config file in _~/.gitconfig_
+* Project config file in _.git/config_
+
+
 !SLIDE commandline incremental
 
 # Create a new repo #
